@@ -27,7 +27,7 @@ More projects coming soon as I continue learning!
 
  📈 GitHub Stats
 
-(https://github-readme-stats.vercel.app/api?username=ahtisham06&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=ahtisham06&show_icons=true&theme=radical
 
 ---
 
