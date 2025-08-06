@@ -1,16 +1,41 @@
-## Hi there 👋
+👋 Hi, I'm Ahtisham
 
-<!--
-**ahtisham06/ahtisham06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Location: Gujranwala, Pakistan  
+Learning Path: Aspiring Python Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🛠️ Skills (Currently Learning)
+
+- Programming Languages: Python (beginner)  
+- Web Development: HTML, CSS, basics of Flask/Django  
+- Tools: Git, GitHub  
+
+---
+
+📂 Learning Projects
+
+Here are some projects I am working on while learning Python:
+
+- Calculator App – Simple Python calculator for basic operations.  
+- Todo List App – Command-line app to manage tasks.  
+- Web Scraper – Scrapes data from websites using Python.  
+
+More projects coming soon as I continue learning!
+
+---
+
+ 📈 GitHub Stats
+
+(https://github-readme-stats.vercel.app/api?username=ahtisham06&show_icons=true&theme=radical)
+
+---
+
+📬 Contact Me
+
+- Email: businesswithahtisham@gmail.com
+
+---
+
+✨ I’m passionate about learning Python, building projects, and growing as a developer. Always excited to collaborate and contribute to open-source projects!
+
