@@ -18,8 +18,7 @@ Learning Path: Aspiring Python Developer
 Here are some projects I am working on while learning Python:
 
 - Calculator App – Simple Python calculator for basic operations.  
-- Todo List App – Command-line app to manage tasks.  
-- Web Scraper – Scrapes data from websites using Python.  
+- Todo List App – Command-line app to manage tasks.   
 
 More projects coming soon as I continue learning!
 
