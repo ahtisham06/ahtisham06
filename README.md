@@ -13,12 +13,18 @@ Learning Path: Aspiring Python Developer
 
 ---
 
-📂 Learning Projects
+📂 Learning Projects 
 
 Here are some projects I am working on while learning Python:
 
-- Calculator App – Simple Python calculator for basic operations.  
-- Todo List App – Command-line app to manage tasks.   
+🌤️ Weather App
+– Real-time weather info using OpenWeatherMap API.
+
+💱 Currency Converter 
+– CLI tool for live currency conversion via API.
+
+📚 Library System (OOP)
+– Manage books & members using Python OOP.   
 
 More projects coming soon as I continue learning!
 
