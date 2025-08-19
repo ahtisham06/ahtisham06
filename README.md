@@ -21,10 +21,7 @@ Here are some projects I am working on while learning Python:
 – Real-time weather info using OpenWeatherMap API.
 
 💱 Currency Converter 
-– CLI tool for live currency conversion via API.
-
-📚 Library System (OOP)
-– Manage books & members using Python OOP.   
+– CLI tool for live currency conversion via API.   
 
 More projects coming soon as I continue learning!
 
