@@ -17,9 +17,6 @@ Learning Path: Aspiring Python Developer
 
 Here are some projects I am working on while learning Python:
 
-🌤️ Weather App
-– Real-time weather info using OpenWeatherMap API.
-
 💱 Currency Converter 
 – CLI tool for live currency conversion via API.   
 
