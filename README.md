@@ -17,9 +17,10 @@ Learning Path: Aspiring Python Developer
 
 Here are some projects I am working on while learning Python:
 
-💱 Currency Converter 
-– CLI tool for live currency conversion via API.   
-
+- Web Scraper of Job Listings (e.g.., Rozee.pk) 
+- Data Cleaner Script for CSV Files
+- Custom Decorator-Based Logger
+ 
 More projects coming soon as I continue learning!
 
 ---
